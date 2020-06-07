@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="../github/Ecoleta.jpg" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/Ecoleta.jpg" />
 </h1>
 <h4 align="center"> 
 	🚀 NextLevelWeek #1  
@@ -18,3 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React][reactjs]
 - [React Native][rn]
 - [TypeScript][typescript]
+
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
