@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/Ecoleta.jpg" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/Ecoleta.jpeg" />
 </h1>
 <h4 align="center"> 
 	🚀 NextLevelWeek #1  
