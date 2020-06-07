@@ -19,5 +19,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
 [expo]: https://expo.io/
-[React Native]: https://reactnative.dev/
-[TypeScript]: https://typescript/
+[rn]: https://reactnative.dev/
+[reactjs]: https://reactjs/
